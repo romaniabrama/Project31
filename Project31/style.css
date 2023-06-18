@@ -1,0 +1,47 @@
+body{
+    background-color: #1E1E1E;
+    margin: 0;
+    padding: 0;
+}
+
+.j{
+    margin-top: 36px;
+    margin-left: 36px;
+}
+
+h1{
+    margin-left: 36px;
+    margin-top: 550px;
+    color: #FFFFFF;
+    font-size: 65px;
+   
+    
+}
+
+div{
+    display: flex;
+}
+
+.box{
+    display: inline-block;
+}
+
+h2{
+    margin-left: 36px;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+div{
+    display: flex;
+}
+
+
+.img{
+    width: 750px;
+    margin-left: 300px;
+    
+}
+
+
+
